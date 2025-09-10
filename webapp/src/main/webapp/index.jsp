@@ -1,9 +1,13 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome-Student!! Learn DevOps Demanding Career - Don't Stop Learning!!</h1>
+    <h1>Welcome-Student To KDB Academy!! Learn DevOps Demanding Career - Don't Stop Learning!!</h1>
     <p>Please fill in this form for registration!!!!!</p>
     <hr>
     <br>  
+
+    <label for="name"><b>name</b></label>
+    <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <br>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
