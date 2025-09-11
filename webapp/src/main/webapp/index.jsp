@@ -1,12 +1,12 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome-Student To KDB Academy!! Learn DevOps Demanding Career - Don't Stop Learning!!</h1>
+    <h1>Welcome-Guys!! Learn DevOps Demanding Career - DevOps is Awesome......!!</h1>
     <p>Please fill in this form for registration!!!!!</p>
     <hr>
     <br>  
 
     <label for="name"><b>name</b></label>
-    <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <input type="text" placeholder="Enter name" name="Name" id="name" required>
     <br>
 
     <label for="email"><b>Email</b></label>
@@ -19,6 +19,10 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <br>
+
+    <label for="name"><b>Adhar Card</b></label>
+    <input type="text" placeholder="Enter name" name="Adhar Card" id="name" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
