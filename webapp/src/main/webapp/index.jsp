@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Welcome-Guys!! Learn DevOps Demanding Career - DevOps is Awesome......!!</h1>
+     <h1>ENJOY YOUR LEARNING AND GO AHEAD........!!</h1>
     <p>Please fill in this form for registration!!!!!</p>
     <hr>
     <br>  
